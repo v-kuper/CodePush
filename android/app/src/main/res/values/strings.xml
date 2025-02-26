@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CodePush</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">83znkQQS0HCDZGusRuG6yfIJ1bp84ksvOXqog</string>
+    <string moduleConfig="true" name="CodePushServerUrl">http://10.0.2.2:3000</string>
 </resources>
